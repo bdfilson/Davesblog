@@ -1,3 +1,0 @@
-
-
-# dave blog
