@@ -1,8 +1,7 @@
 ---
 layout: page
 title: About
-values:
-strip_title: true
+
 ---
 
 This is an about page about this awesome site.
