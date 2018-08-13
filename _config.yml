@@ -7,9 +7,6 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
-values:
-strip_title: False
-
 markdown: kramdown
 theme: minima
 plugins:
