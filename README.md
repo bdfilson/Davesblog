@@ -1,2 +1,4 @@
-
-# Dave's Blog2
+---
+layout: page
+title: Dave's Blog
+---
