@@ -3,4 +3,4 @@
       strip_title: true
 ---
 
-# Dave's Blog2
+# Dave's Blog
