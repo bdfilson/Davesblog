@@ -8,6 +8,6 @@ github_username:  jekyll
 
 # Build settings
 markdown: kramdown
-theme: minama
+theme: minima
 plugins:
   - jekyll-titles-from-headings
