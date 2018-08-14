@@ -1,10 +1,10 @@
 # basic options
 title: Dave's Blog
 author: GitHub User
-email: Bdfilson@hotmail.com
+email: 
 description: 
 twitter_username: 
-github_username: bdfilson  
+github_username:  
 
 # Build settings
 markdown: kramdown
