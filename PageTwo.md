@@ -1,7 +1,12 @@
 ---
 layout: page
-title: Page Two
+title: Links
 
 ---
+Giant Weekly Ad
+https://giantfood.com/coupons-weekly-circular/weekly-circular/
 
-this is a test page
+
+
+Giant Digital Coupons  
+https://giantfood.com/coupons-weekly-circular/digital-coupons/#/available
