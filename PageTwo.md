@@ -4,9 +4,9 @@ title: Links
 
 ---
 Giant Weekly Ad  
-https://giantfood.com/coupons-weekly-circular/weekly-circular/
+ https://giantfood.com/coupons-weekly-circular/weekly-circular/
 
 
 
 Giant Digital Coupons  
-https://giantfood.com/coupons-weekly-circular/digital-coupons/#/available
+ https://giantfood.com/coupons-weekly-circular/digital-coupons/#/available
