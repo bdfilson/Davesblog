@@ -6,6 +6,11 @@ description:
 twitter_username: 
 github_username:  
 
+header_pages:
+  - Page3.md
+  - about.md
+  - Page2.md
+
 # Build settings
 markdown: kramdown
 theme: minima
