@@ -8,8 +8,8 @@ github_username:
 
 header_pages:
   - Page3.md
-  - about.md
   - Page2.md
+  - about.md
 
 # Build settings
 markdown: kramdown
