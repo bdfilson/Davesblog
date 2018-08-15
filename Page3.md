@@ -7,7 +7,8 @@ title: Recipes
 <title>test</title> <style type="text/css"> code{white-space: pre-wrap;} span.smallcaps{font-variant: small-caps;} span.underline{text-decoration: underline;} div.column{display: inline-block; vertical-align: top; width: 50%;} </style>
 This Is a test
 
-image1.jpeg
+Format: ![Alt Text](https://images.media-allrecipes.com/userphotos/250x250/5406361.jpg)
+
 
 A simple-to-make but delicious chicken Marsala recipe. Serve over hot cooked rice."
 
