@@ -1,5 +1,5 @@
 ---
-layout: Recipes
+layout: page2lo
 title: Recipes
 
 ---
