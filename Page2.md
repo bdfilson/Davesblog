@@ -8,4 +8,4 @@ title: Links
 
 [Giant Digital Coupons](https://giantfood.com/coupons-weekly-circular/digital-coupons/#/available)  
  
-[Saaubles Weekly Ad](https://www.saubelsmarkets.com/weekly-ad/) 
+[Saubels Weekly Ad](https://www.saubelsmarkets.com/weekly-ad/) 
