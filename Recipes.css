@@ -1,0 +1,75 @@
+.container {
+  display: grid;
+  max-width: 100%;
+  position: relative;
+
+  grid-gap: 10px;
+  grid-template-areas:"header header header"
+                      "left middle right"
+                      "footer footer footer";
+  grid-template-columns: 33.1% 33.1% 33.1%;
+  grid-template-rows: 190px 600px 50px;
+}
+.prep {
+  font-family: 'Courier New'
+  text-align: center;
+}
+
+h1, h2 {
+  font-family: monospace;
+  text-align: center;
+  font-size: 200%;
+}
+header {
+grid-area: header;
+background-image:
+url("./img/Recipes-Banner.jpg");
+
+background-repeat:no-repeat;
+background-size:100% 100%;
+}
+
+
+.left {
+  background-color: SkyBlue;
+  grid-area: left;
+  padding: 0px 5px;
+  overflow: scroll;
+}
+.photo {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+.bottom-text {
+    position: absolute;
+    color: Black;
+    font: 15px "Arial Black", sans-serif;
+    bottom: 8px;
+    left: 16px;
+}
+.bottom-text2 {
+    position: absolute;
+    color: white;
+    font: 15px "Arial Black", sans-serif;
+    bottom: 8px;
+    left: 16px;
+}
+
+.middle {
+  background-color: rgb(255, 40, 40);
+  grid-area: middle;
+  padding: 0px 5px;
+  overflow: scroll;
+}
+.right {
+  background-color: Springgreen;
+  grid-area: right;
+  padding: 0px 5px;
+  overflow: scroll;
+}
+
+footer {
+  background-color: dodgerblue;
+  grid-area: footer;
+}
