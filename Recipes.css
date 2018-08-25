@@ -29,12 +29,17 @@ background-size:100% 100%;
 }
 
 .top-left {
+    font-family: 'Montserrat', sans-serif;
     color: white;
-    font-size: 25px;
-    font-weight: 700;
     position: absolute;
     top: 8px;
     left: 25%;
+    font-size: 26px;
+    font-weight: 300;
+    
+    letter-spacing: -1px;
+    margin-bottom: 0;
+    float: left;
 }
 
 
