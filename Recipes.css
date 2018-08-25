@@ -8,7 +8,7 @@
                       "left middle right"
                       "footer footer footer";
   grid-template-columns: 33.1% 33.1% 33.1%;
-  grid-template-rows: 190px 600px 50px;
+  grid-template-rows: 300px 600px 50px;
 }
 .prep {
   font-family: 'Courier New'
@@ -24,14 +24,42 @@ header {
 grid-area: header;
 background-image:
 url("./img/Recipes-Banner.jpg");
-
 background-repeat:no-repeat;
 background-size:100% 100%;
 }
 
+.top-left {
+    color: white;
+    font-size: 25px;
+    font-weight: 700;
+    position: absolute;
+    top: 8px;
+    left: 25%;
+}
+
+
+.top-right {
+    color: white;
+    font-size: 25px;
+    font-weight: 800;
+    position: absolute;
+    top: 8px;
+    right: 16px;
+}
+
+.centered {
+    color: white;
+    font-size: 25px;
+    font-weight: 800;
+    position: absolute;
+    top: 8px;
+    right: 100px;
+
+}
+
 
 .left {
-  background-color: SkyBlue;
+  background-color: skyblue;
   grid-area: left;
   padding: 0px 5px;
   overflow: scroll;
@@ -57,13 +85,13 @@ background-size:100% 100%;
 }
 
 .middle {
-  background-color: rgb(255, 40, 40);
+  background-color:rgb(255, 40, 40);
   grid-area: middle;
   padding: 0px 5px;
   overflow: scroll;
 }
 .right {
-  background-color: Springgreen;
+  background-color:springgreen;
   grid-area: right;
   padding: 0px 5px;
   overflow: scroll;
@@ -72,4 +100,10 @@ background-size:100% 100%;
 footer {
   background-color: dodgerblue;
   grid-area: footer;
+}
+.footer-heading {
+  margin-top: 11px;
+  color: red;
+  grid-area: footer;
+  padding: 0px 5px
 }
