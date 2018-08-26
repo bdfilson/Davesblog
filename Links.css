@@ -1,0 +1,89 @@
+
+.container {
+  display: grid;
+  max-width: 100%;
+  position: relative;
+
+  grid-gap: 10px;
+  grid-template-areas:"header header"
+                      "left right"
+                      "footer footer";
+  grid-template-columns: 49.5% 49.5%;
+  grid-template-rows: 300px 350px 50px;
+}
+header {
+grid-area: header;
+
+}
+
+.top-left {
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    position: absolute;
+    top: 8px;
+    left: 25%;
+    font-size: 26px;
+    font-weight: 300;
+
+    letter-spacing: -1px;
+    margin-bottom: 0;
+    float: left;
+}
+.centered {
+    font-family: 'Arial', sans-serif;
+    font-size: 16px;
+    font-weight: 300;
+    position: absolute;
+    top: 17px;
+    right: 400px;
+
+}
+.centered2 {
+    font-family: 'Arial', sans-serif;
+    font-size: 16px;
+    font-weight: 300;
+    position: absolute;
+    top: 17px;
+    right: 353px;
+
+}
+.top-right {
+    font-family: 'Arial', sans-serif;
+    font-size: 16px;
+    font-weight: 300;
+    position: absolute;
+    top: 17px;
+    right: 300px;
+}
+
+.left {
+  font-family: 'Arial Black', sans-serif;
+  
+  padding-left: 70px;
+  grid-area: left;
+  text-align: left;
+  font-size: 200%;
+
+}
+
+.right {
+  font-family: 'Arial Black', sans-serif;
+
+  padding-left: 5px;
+  grid-area: right;
+  text-align: left;
+  font-size: 200%;
+}
+
+footer {
+
+  grid-area: footer;
+}
+.footer-heading {
+  text-align: center;
+
+  margin-top: 15px;
+  color: white;
+  grid-area: footer;
+
+}
