@@ -1,26 +1,80 @@
+
+
+
+
+.top-left {
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    position: absolute;
+    top: 8px;
+    left: 25%;
+    font-size: 26px;
+    font-weight: 300;
+
+    letter-spacing: -1px;
+    margin-bottom: 0;
+    float: left;
+}
+.centered {
+    font-family: 'Arial', sans-serif;
+    font-size: 16px;
+    font-weight: 300;
+    position: absolute;
+    top: 17px;
+    right: 400px;
+
+}
+.centered2 {
+    font-family: 'Arial', sans-serif;
+    font-size: 16px;
+    font-weight: 300;
+    position: absolute;
+    top: 17px;
+    right: 353px;
+
+}
+.top-right {
+    font-family: 'Arial', sans-serif;
+    font-size: 16px;
+    font-weight: 300;
+    position: absolute;
+    top: 17px;
+    right: 300px;
+}
 body {
 
 }
-
-
-
-.pws1 {
-  margin-left: 28px;
+body .pws1 {
+margin-top: 57px;
+  margin-left: 35px;
   float: left;
-  padding-right: 75px;
+  padding-right: 70px;
 }
-.pws2 {
+body .pws2 {
+margin-top: 57px;
   margin-left: 25px;
   float: left;
-  padding-right: 75px;
+  padding-right: 70px;
 }
-/*.pws3 {
+/*.body .pws3 {
   margin-left: 15px;
   float: left;
   padding-right: 25px;
 }*/
-.pws4 {
+body .pws4 {
+margin-top: 57px;
   margin-left: 25px;
   float: left;
 
+}
+.accuweather {
+  margin-left: 0px;
+
+}
+.accuweather .chart {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-left: 180px;
+  margin-top: 250px;
+  margin-bottom: 100px;
 }
