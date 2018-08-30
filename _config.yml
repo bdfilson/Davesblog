@@ -1,12 +1,13 @@
 # basic options
 title: Dave's Blog
 author: GitHub User
-email: 
-description: 
-twitter_username: 
-github_username:  
+email:
+description:
+twitter_username:
+github_username:
 
 header_pages:
+  - Weather.html
   - Recipes.html
   - Links.html
   - about.md
