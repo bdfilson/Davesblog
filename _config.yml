@@ -7,9 +7,9 @@ twitter_username:
 github_username:
 
 header_pages:
-  - Weather.html
-  - Recipes.html
-  - Links.html
+#  - Weather.html
+#  - Recipes.html
+#  - Links.html
   - about.md
 
 # Build settings
