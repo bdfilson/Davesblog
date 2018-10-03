@@ -1,5 +1,7 @@
 ---
-list_title: Thursday & Sunday NFL Schedules
+list:
+-
+title: Thursday & Sunday NFL Schedules
 
 ---
 
