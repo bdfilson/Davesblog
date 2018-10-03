@@ -8,7 +8,7 @@ title: Thursday & Sunday NFL Schedules
 
 
 
-[Thursday](/Dave-s-blog/tnf.html)
+[Thursday Night Schedule](/Dave-s-blog/tnf.html)
 
 
-[Sunday](/Dave-s-blog/snf.html)
+[Sunday Night Schedule](/Dave-s-blog/snf.html)
