@@ -11,7 +11,7 @@ header_pages:
   - Weather.html
   - Recipes.html
   - Links.html
-  - about.md
+ 
 
 # Build settings
 markdown: kramdown
