@@ -5,7 +5,7 @@ email:
 description:
 twitter_username:
 github_username:
-
+show_excerpts: true
 header_pages:
 
   - Weather.html
