@@ -7,11 +7,11 @@ twitter_username:
 github_username:
 
 header_pages:
-  - tnf.html
+  
   - Weather.html
   - Recipes.html
   - Links.html
- 
+  - About.md
 
 # Build settings
 markdown: kramdown
