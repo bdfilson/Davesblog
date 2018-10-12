@@ -6,6 +6,7 @@ description:
 twitter_username:
 github_username:
 show_excerpts: false
+limit_posts: 3
 header_pages:
 
   - Weather.html
