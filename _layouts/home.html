@@ -17,8 +17,7 @@ layout: default
 
 {{ content }}
 
-  {% for post in site.posts limit:3 %} 
-  {% endfor %}
+
   
 {%- if site.posts.size > 0 -%}
   <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
