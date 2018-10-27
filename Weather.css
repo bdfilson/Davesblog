@@ -44,7 +44,7 @@
 body {
 
 }
-body .pws1 {
+/* body .pws1 {
 margin-top: 57px;
   margin-left: 35px;
   float: left;
@@ -56,17 +56,17 @@ margin-top: 57px;
   float: left;
   padding-right: 70px;
 }
-/*.body .pws3 {
+  .body .pws3 {
   margin-left: 15px;
   float: left;
   padding-right: 25px;
-}*/
+}
 body .pws4 {
-margin-top: 57px;
+margin-top: 0px;
   margin-left: 25px;
   float: left;
+} */
 
-}
 .accuweather {
   margin-left: 0px;
 
@@ -75,6 +75,6 @@ margin-top: 57px;
   padding-top: 10px;
   padding-bottom: 10px;
   margin-left: 180px;
-  margin-top: 250px;
+  margin-top: 50px;
   margin-bottom: 100px;
 }
